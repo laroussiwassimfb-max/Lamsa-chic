@@ -1,0 +1,43 @@
+Lamsa Chic body { font-family: Arial, sans-serif; margin: 0; background-color: #f8f8f8; } header { background-color: #000; color: white; padding: 15px; text-align: center; } nav { background: #333; padding: 10px; text-align: center; } nav a { color: white; margin: 10px; text-decoration: none; } .container { padding: 20px; } .products { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; } .product { background: white; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); text-align: center; } .product img { width: 100%; border-radius: 10px; } footer { background: black; color: white; text-align: center; padding: 10px; margin-top: 20px; } button { background: black; color: white; border: none; padding: 10px; margin-top: 10px; cursor: pointer; border-radius: 5px; } 
+
+Lamsa Chic
+
+Parfum | Vêtements | Maquillage
+
+Accueil Produits Contact 
+
+Nos Produits
+
+￼ 
+
+Parfum Femme
+
+Prix: 60 DT
+
+Commander 
+
+￼ 
+
+Rouge à lèvres
+
+Prix: 25 DT
+
+Commander 
+
+￼ 
+
+Robe Chic
+
+Prix: 90 DT
+
+Commander 
+
+Contact
+
+WhatsApp: 12345678
+
+Instagram: @lamsachic
+
+© 2026 Lamsa Chic - Tous droits réservés
+
+function order() { alert("Contactez-nous sur WhatsApp pour commander !"); } 
